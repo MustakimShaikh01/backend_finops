@@ -39,7 +39,7 @@ git init
 git add .
 git commit -m "Initial Spring Boot Factory CRUD"
 # create repo on GitHub then
-git remote add origin git@github.com:YOUR_USER/YOUR_REPO.git
+git remote add origin https://github.com/MustakimShaikh01/backend_finops.git
 git push -u origin main
 ```
 
